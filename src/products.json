@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "name": "เสื้อยืดสีขาว",
+      "price": 299,
+      "image": "/images/t_shirt_white.jpg",
+      "description": "เสื้อยืดสีขาวคุณภาพดี ใส่สบาย"
+    },
+    {
+      "id": 2,
+      "name": "กางเกงยีนส์",
+      "price": 799,
+      "image": "/images/jeans.jpg",
+      "description": "กางเกงยีนส์สไตล์แฟชั่น ทันสมัย"
+    }
+  ]
+  
